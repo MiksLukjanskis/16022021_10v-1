@@ -13,7 +13,7 @@ print(5**3+3*6)
 #5)Karlinskis Renârs
 
 #6)Lukjanskis Miks Patriks
-
+print(7+3+3*6)
 #7)Lukðs Lauris
 
 #8)Mâlkalns Kristaps
